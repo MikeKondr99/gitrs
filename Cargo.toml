@@ -1,0 +1,8 @@
+[package]
+name = "gitrs"
+version = "0.1.0"
+edition = "2021"
+
+[dev-dependencies]
+pretty_assertions = "1.3.0"
+rstest = "0.16.0"
