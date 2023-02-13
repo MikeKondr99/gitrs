@@ -1,3 +1,6 @@
+#![feature(slice_as_chunks)]
+#![feature(array_chunks)]
+
 mod sha1;
 use std::path::{Path, PathBuf};
 
